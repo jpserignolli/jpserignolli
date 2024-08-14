@@ -5,10 +5,13 @@
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,html,css)](https://skillicons.dev)
 
 ## Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,discord,eclipse,git,github,linux,windows,mysql,ps)](https://skillicons.dev)
 
-## Aprendendo 
-[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,java,react,nextjs,nodejs,mysql,py,figma,git,github,,htmlc,css,ps,azure&perline=13" />
+  </a>
+</p>
 
 ## Contatos:
 <div>
