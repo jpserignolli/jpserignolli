@@ -1,11 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=Hi+im+Joao-Serignolli!)](https://git.io/typing-svg)
 
-
-## Linguagens 
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,html,css)](https://skillicons.dev)
-
-## Ferramentas e Tecnologias
-
+Olá pessoal ! Sou um estudante Brasileiro de Análise e Desenvolvimento de Sistemas, com 3 anos de experiência em programação. Sou profundamente apaixonado por criar software, mexer em projetos fullstack e mergulhar em bancos de dados, arquitetura de sistemas e arquitetura de big data.
 
 <p align="center">
   <a href="https://skillicons.dev">
