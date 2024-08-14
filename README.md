@@ -5,7 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,html,css)](https://skillicons.dev)
 
 ## Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,discord,eclipse,git,github,linux,mysql,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,discord,eclipse,git,github,linux,windows,mysql,ps)](https://skillicons.dev)
 
 ## Aprendendo 
 [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
