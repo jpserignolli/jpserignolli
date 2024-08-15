@@ -4,7 +4,7 @@ Olá pessoal ! Sou um estudante Brasileiro de Análise e Desenvolvimento de Sist
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,java,react,nodejs,mysql,py,figma,git,github,,htmlc,css,ps,dotnet&perline=13" />
+    <img src="https://skillicons.dev/icons?i=cs,c,cpp,ts,js,java,react,nodejs,mysql,py,figma,git,github,,htmlc,css,ps,dotnet&perline=13" />
   </a>
 </p>
 
